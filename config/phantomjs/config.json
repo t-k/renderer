@@ -1,0 +1,8 @@
+{
+  "viewportSize": {
+    "width": 1900,
+    "height": 1200
+  },
+  "resourceTimeout": 30000,
+  "userAgent": "Phantomjs"
+}

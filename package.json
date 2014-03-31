@@ -1,0 +1,20 @@
+{
+  "author": "Tatsuo Kaniwa <tatsuo@kaniwa.biz>",
+  "name": "renderer",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">= 0.6.0"
+  },
+  "dependencies": {
+    "phantomjs": "*",
+    "cluster": "*"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "readmeFilename": "README.md",
+  "directories": {
+    "test": "test"
+  },
+  "license": "MIT"
+}
